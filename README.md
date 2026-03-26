@@ -29,9 +29,12 @@ Task 2 – Digital Portfolio
 - Outcome: Learned the importance of maintaining a professional digital identity.  
 
  Files:  
-- `task-2-portfolio/github.png`  
-- `task-2-portfolio/linkedin.png`  
-- `task-2-portfolio/kaggle.png`  
+ GITHUB
+<img width="1366" height="768" alt="Screenshot 2026-03-24 225602" src="https://github.com/user-attachments/assets/5e8259d7-7ec8-4bd6-935a-deebc6997522" />
+LINKED IN
+<img width="1366" height="720" alt="Screenshot 2026-03-26 183907" src="https://github.com/user-attachments/assets/1010a0b2-26e0-4d1a-b504-c5613ec3570a" />
+KAGGLE
+<img width="1366" height="768" alt="Screenshot 2026-03-24 232427" src="https://github.com/user-attachments/assets/355d3243-6d57-4bb0-b8c5-1b5fab05b426" />
 
 
 
@@ -43,13 +46,14 @@ Part A – Coding Platform
  Part B – Google Form
 - Created a Digital Literacy Awareness Quiz with 5 questions  
 - Collected responses using Google Sheets  
-
-🔗 Google Form Link: [Paste your link here]
-
- Files:  
-- `task-3-platforms/hackerrank.png`  
-- `task-3-platforms/google-form.png`  
-- `task-3-platforms/responses.png`  
+  
+Files:  
+HACKER RANK:
+<img width="1366" height="768" alt="Screenshot 2026-03-25 000505" src="https://github.com/user-attachments/assets/5a9269f8-4416-436d-9c0a-1986c3d20136" />
+GOGGLE FORM LINK:
+https://docs.google.com/forms/d/e/1FAIpQLSePmsea8l6h8b3d2oQP76orsU_jNuawaht5euRCED8_q8PQ4g/viewform?usp=dialog
+RESPONSES:
+<img width="1366" height="720" alt="Screenshot 2026-03-26 185312" src="https://github.com/user-attachments/assets/5cf43295-d769-4eb3-966a-e930fe5fa84c" />
 
  Task 4 – Email Etiquette & Social Media Checklist
 - Wrote two professional emails:
@@ -58,9 +62,6 @@ Part A – Coding Platform
 - Created a Social Media Do’s and Don’ts checklist  
 
  Files:  
-- `task-4-email-etiquette/emails.txt`  
-- `task-4-email-etiquette/social-media-checklist.txt`  
-
 
  Task 5 – Cybercrime Awareness
  Case Study
