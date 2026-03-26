@@ -62,7 +62,7 @@ RESPONSES:
 - Created a Social Media Do’s and Don’ts checklist  
 
  Files:  
- https://github.com/vadikarianuradha30-jpg/Digital-literacy/blob/7a03e9d3a4f53ea969aab341f6130b0d08b81851/Task-4%20Subject%20Request%20for%20Assignment%20Dead.
+ https://github.com/vadikarianuradha30-jpg/Digital-literacy/blob/Task-4%20Subject%20Request%20for%20Assignment%20Dead.
 Social Media Do's and Dont's checklist
 SOCIAL MEDIA CHECKLIST
 
