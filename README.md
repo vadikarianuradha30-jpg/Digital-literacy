@@ -64,9 +64,10 @@ RESPONSES:
  Files:  
   Task-4 Subject Request for Assignment Dead.
 https://github.com/vadikarianuradha30-jpg/Digital-literacy/blob/main/Task-4%20Subject%20Request%20for%20Assignment%20Dead.txt
-Social Media Do's and Dont's checklist
+
 Internship application email
 https://github.com/vadikarianuradha30-jpg/Digital-literacy/blob/main/Task-4%20Subject%20Application%20for%20Summer%20Inte..txt
+
 SOCIAL MEDIA CHECKLIST
 https://github.com/vadikarianuradha30-jpg/Digital-literacy/blob/main/Task-4%20SOCIAL%20MEDIA%20CHECKLIST.txt
  Task 5 – Cybercrime Awareness
@@ -78,10 +79,10 @@ https://github.com/vadikarianuradha30-jpg/Digital-literacy/blob/main/Task-4%20SO
 - Created a checklist with safety tips including UPI safety and reporting methods  
 
  Files:  
-- `task-5-cybercrime/casestudy.txt`  
-- `task-5-cybercrime/prevention-checklist.txt`  
+Phishing:
+https://github.com/vadikarianuradha30-jpg/Digital-literacy/blob/main/Task-5%20PHIISHING%20CASE%20STUDY....txt
 
-
+prevention checklist:
 
 ## Project Report
 The detailed report of all tasks is included in the repository.
