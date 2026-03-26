@@ -63,7 +63,8 @@ RESPONSES:
 
  Files:  
 Social Media Do's and Dont's checklist
-https://github.com/vadikarianuradha30-jpg/Digital-literacy/blob/main/Task-4%20SOCIAL%20MEDIA%20CHECKLIST.
+SOCIAL MEDIA CHECKLIST
+
  Task 5 – Cybercrime Awareness
  Case Study
 - Topic: Phishing  
