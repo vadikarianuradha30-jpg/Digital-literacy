@@ -17,7 +17,7 @@ This project helped me understand how to use digital tools effectively, maintain
 - Description: Created a one-page infographic explaining digital literacy, useful digital tools, and safe internet practices.  
 - Outcome: Improved my ability to present information visually in a clear and engaging way.  
 
- File: `task-1-presentation/infographic.png`
+ File: 
 ![WhatsApp Image 2026-03-26 at 6 24 05 PM](https://github.com/user-attachments/assets/9295c364-8181-4e86-9754-39aba0ef1d9f)
 
 Task 2 – Digital Portfolio
@@ -31,8 +31,10 @@ Task 2 – Digital Portfolio
  Files:  
  GITHUB
 <img width="1366" height="768" alt="Screenshot 2026-03-24 225602" src="https://github.com/user-attachments/assets/5e8259d7-7ec8-4bd6-935a-deebc6997522" />
+
 LINKED IN
 <img width="1366" height="720" alt="Screenshot 2026-03-26 183907" src="https://github.com/user-attachments/assets/1010a0b2-26e0-4d1a-b504-c5613ec3570a" />
+
 KAGGLE
 <img width="1366" height="768" alt="Screenshot 2026-03-24 232427" src="https://github.com/user-attachments/assets/355d3243-6d57-4bb0-b8c5-1b5fab05b426" />
 
@@ -50,8 +52,10 @@ Part A – Coding Platform
 Files:  
 HACKER RANK:
 <img width="1366" height="768" alt="Screenshot 2026-03-25 000505" src="https://github.com/user-attachments/assets/5a9269f8-4416-436d-9c0a-1986c3d20136" />
+
 GOGGLE FORM LINK:
 https://docs.google.com/forms/d/e/1FAIpQLSePmsea8l6h8b3d2oQP76orsU_jNuawaht5euRCED8_q8PQ4g/viewform?usp=dialog
+
 RESPONSES:
 <img width="1366" height="720" alt="Screenshot 2026-03-26 185312" src="https://github.com/user-attachments/assets/5cf43295-d769-4eb3-966a-e930fe5fa84c" />
 
@@ -65,11 +69,12 @@ RESPONSES:
   Task-4 Subject Request for Assignment Dead.
 https://github.com/vadikarianuradha30-jpg/Digital-literacy/blob/main/Task-4%20Subject%20Request%20for%20Assignment%20Dead.txt
 
-Internship application email
+Internship application email:
 https://github.com/vadikarianuradha30-jpg/Digital-literacy/blob/main/Task-4%20Subject%20Application%20for%20Summer%20Inte..txt
 
-SOCIAL MEDIA CHECKLIST
+SOCIAL MEDIA CHECKLIST:
 https://github.com/vadikarianuradha30-jpg/Digital-literacy/blob/main/Task-4%20SOCIAL%20MEDIA%20CHECKLIST.txt
+
  Task 5 – Cybercrime Awareness
  Case Study
 - Topic: Phishing  
@@ -84,6 +89,7 @@ https://github.com/vadikarianuradha30-jpg/Digital-literacy/blob/main/Task-5%20PH
 
 prevention checklist:
 https://github.com/vadikarianuradha30-jpg/Digital-literacy/blob/main/Task-5%20Stay%20Safe%20Online%20%E2%80%93%20Prevention%20Check..txt
+
  Project Report
 The detailed report of all tasks is included in the repository.
 
