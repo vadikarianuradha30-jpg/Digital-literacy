@@ -1,7 +1,7 @@
 Digital Literacy Project
 
 Student Details
-Name: [ANURADHA]  
+Name: [VADIKARI ANURADHA]  
 Registration Number: [25MIB10023]  
 Branch: [AI & BIOINFORMATICS]  
 Year: 1st Year INTEGRAED M-TECH  
@@ -87,8 +87,8 @@ https://github.com/vadikarianuradha30-jpg/Digital-literacy/blob/main/Task-5%20St
  Project Report
 The detailed report of all tasks is included in the repository.
 
- File: `report/Project_Report.pdf`
-
+ File: 
+https://github.com/vadikarianuradha30-jpg/Digital-literacy/blob/main/DIGITAL%20LITERACY%20PROJECT%20REPORT.docx
 
 
  Tools & Platforms Used
